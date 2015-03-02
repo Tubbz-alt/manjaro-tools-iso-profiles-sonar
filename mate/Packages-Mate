@@ -8,6 +8,7 @@ inxi
 libdnet
 mesa-demos
 >x86_64 lib32-mesa-demos
+#netkit-bsd-finger
 uriparser
 xf86-input-acecad
 xf86-input-aiptek
@@ -28,95 +29,94 @@ xorg-xinit
 ## Artwork
 #nitrux-icon-theme
 manjaro-artwork
-xcursor-menda
-menda-themes
-menda-themes-dark
-menda-circle-icon-theme
-menda-square-icon-theme
-libgnomeui
-gconf
-gnome-themes-standard
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+faenza-green-icon-theme
+numix-manjaro-themes
 
-## MATE Main Packages
-mate     
-mate-extra
-mintmenu
+#login dm
+lxdm
+#mate group
+
+marco
+mate-backgrounds
+mate-control-center
+mate-desktop
+mate-dialogs
+mate-icon-theme
+mate-menus
+mate-panel
+mate-polkit
+mate-session-manager
+mate-settings-daemon-pulseaudio
+mate-themes
+mate-themes-extras
+#mate-extra group
+caja-gksu
+ caja-image-converter
+ caja-open-terminal
+ caja-sendto
+ caja-share
+# mate-notification-daemon
+engrampa
+ eom
+ galculator-gtk2
+ mate-applets
+ mate-icon-theme-faenza
+ mate-media-pulseaudio
+ mate-netspeed
+ mate-power-manager
+ mate-screensaver
+ mate-sensors-applet
+ mate-system-monitor
+ #mate-system-tools
+ mate-terminal
+ mate-user-share
+ mate-utils
+ mozo
+ pluma
+#mate applets
+mate-applet-lockkeys
+mate-applet-streamer    
+mate-applets     
 
 ## Network
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
-openresolv
 network-manager-applet
-networkmanager-openconnect
-networkmanager-openvpn
-networkmanager-pptp
-networkmanager-vpnc
-
-## Graphical Installer
-thus
-
+openresolv
+modem-manager-gui
+rp-pppoe
+#gui frontend to iptables
+gufw
 ## Applications
-lightdm-gtk3-greeter
-lightdm-gtk-greeter-settings
 brasero
-flashplugin
-firefox
+#chromium-chromevox
+seamonkey
 gksu
-blueman
-gparted
-gnome-vfs
+#gnome-bluetooth
 gvfs
 gvfs-afc
 gvfs-afp
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
-mtpfs
-android-tools
-android-udev
-hexchat
 isousb
+pidgin
 libdvdcss
-gnome-keyring
-manjaro-settings-manager
-manjaro-welcome
-manjaro-documentation
-#mdm-themes
-thunderbird-firetray
-thunderbird
+libaacs
+mplayer
+#transmission-gtk
 deluge
-pygtk
-librsvg
-python2-mako
 udiskie
 udisks
 udisks2
 vlc
-npapi-vlc-git
-guayadeque
-poppler-glib
-gufw
-accountsservice
-catfish
-p7zip
-mlocate
-pidgin
-open-fuse-iso
-yelp
-libappindicator-gtk2
-libappindicator-gtk3
-
-## Games
-steam
-steam-native
-
-## Java
-icedtea-web
-jdk8-openjdk
-jre8-openjdk
-jre8-openjdk-headless
-
+#audacious media player
+audacious
+audacious-plugins
+xdg-user-dirs-gtk
 ## Packages for Sound and Audio
 gst-libav
 gst-plugins-bad
@@ -130,9 +130,9 @@ gstreamer0.10-ugly-plugins
 manjaro-alsa
 manjaro-pulse
 pavucontrol
-#pa-applet
+paprefs
+pa-applet
 pulseaudio-ctl
-python-pyqt4
 
 ## Package management
 pamac
@@ -146,19 +146,8 @@ ttf-liberation
 adobe-source-sans-pro-fonts
 
 ## Office
-#abiword
-#gnumeric
-#libreoffice-installer
-libreoffice-still-en-US
-#libreoffice-still-base
-libreoffice-still-calc
-#libreoffice-still-draw
-libreoffice-still-gnome
-libreoffice-still-impress
-libreoffice-still-math
-#libreoffice-still-postgresql-connector
-libreoffice-still-writer
-
+## Office
+libreoffice-still
 ## AUR Access
 autoconf
 automake
@@ -166,15 +155,115 @@ binutils
 bison
 fakeroot
 flex
->i686 gcc
->x86_64 gcc-multilib
+gcc
 libtool
 m4
 make
-patch
-subversion
+patch  
 yaourt
-base-devel
 
 ## Printing
 manjaro-printer
+
+#accessibility packages
+orca
+speech-dispatcher
+espeakup
+#notify-osd
+open-dyslexic-fonts
+qt-at-spi
+java-atk-wrapper
+
+
+#some useful cli apps
+screen
+sox
+surfraw
+wget
+newsbeuter
+irssi
+elinks
+lynx
+smartmontools
+youtube-viewer
+#rescue apps
+fsarchiver
+rsync
+parted
+bash-completion
+testdisk
+
+#Sound theme support
+sound-theme-freedesktop
+#plymouth themes
+plymouth-theme-manjaro
+plymouth-theme-manjaro-elegant
+
+
+
+#some extra networkmanager plugins
+networkmanager-openvpn
+networkmanager-openconnect
+networkmanager-pptp
+networkmanager-dispatcher-ntpd
+networkmanager-dispatcher-sshd
+#yelp tool for reading the help files
+yelp
+#mumble client
+mumble
+
+#my own personal additions
+#variety
+#mupen64plus
+#mate-screensaver-hacks
+#mednafen
+#sdlmame
+#wine
+#wine_gecko
+#wine-mono
+#manjaroiso
+#manjaroiso-profiles
+##clonezilla
+#xmms2
+#gnome keyring and friends
+gnome-keyring
+seahorse
+#bluetooth utils
+blueman
+bluez
+bluez-utils
+bluez-hid2hci
+dnsmasq
+#bleachbit file cleaner
+bleachbit
+#iPhone fuse mounter
+ifuse
+
+#gtk iPod gui
+gtkpod
+id3v2
+
+#android udev rules and tools
+android-tools
+android-udev
+
+#additional archive format support
+p7zip
+
+#user friendly backup gui
+deja-dup
+#extra plugins for pidgin
+purple-plugin-pack
+pidgin-otr
+
+#acpi package
+acpi
+#I thought I put this on here, but apparently not
+evince
+
+#canonical's notification-daemon overlay
+notify-osd
+
+onboard
+mousetweaks
+

@@ -1,11 +1,36 @@
 ### Manjaro Packages
 
-## gnome package group, minus epiphany, because we'll use firefox
-adwaita-icon-theme
+## Xorg
+mhwd
+
+## Xorg Packages
+inxi
+libdnet
+mesa-demos
+>x86_64 lib32-mesa-demos
+#netkit-bsd-finger
+uriparser
+xf86-input-acecad
+xf86-input-aiptek
+xf86-input-evdev
+xf86-input-joystick
+xf86-input-keyboard
+xf86-input-mouse
+xf86-input-synaptics
+xf86-input-void
+xf86-input-wacom
+xinetd
+xorg-server
+xorg-server-utils
+xorg-twm
+xorg-utils
+xorg-xinit
+
+## gnome
 baobab
-empathy
+#empathy
 eog
-#epiphany
+epiphany
 evince
 gdm
 gnome-backgrounds
@@ -15,7 +40,7 @@ gnome-control-center
 gnome-desktop
 gnome-dictionary
 gnome-disk-utility
-gnome-font-viewer
+#gnome-font-viewer
 gnome-icon-theme
 gnome-icon-theme-extras
 gnome-icon-theme-symbolic
@@ -39,70 +64,105 @@ nautilus
 sushi
 totem
 tracker
-vino
+#vino
 xdg-user-dirs-gtk
 yelp
 
+## gnome-extra
+accerciser
+#aisleriot
+#anjuta
+bijiben
+brasero
+#cheese
+#devhelp
+#evolution
+file-roller
+# five-or-more
+#four-in-a-row
+gedit
+#gedit310
+#gnome-chess
+gnome-clocks
+gnome-color-manager
+#gnome-devel-docs
+gnome-documents
+gnome-getting-started-docs
+# gnome-klotski
+gnome-logs
+#gnome-mahjongg
+#gnome-maps
+#gnome-mines
+gnome-music
+gnome-nettool
+#gnome-nibbles
+#gnome-photos
+#gnome-robots
+#gnome-sudoku
+#gnome-tetravex
+gnome-weather
+#iagno
+#lightsoff
+nautilus-sendto
+orca
+#polari
+#quadrapassel
+rygel
+seahorse
+#swell-foop
+#tali
+#vinagre
 
-## Gnome Main Packages
-gnome-extra
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+openresolv
+
+## Extra
 gnome-tweak-tool
-gufw # firewall
-manjaro-settings-manager
-networkmanager-openconnect
-networkmanager-openvpn
-networkmanager-pptp
-networkmanager-vpnc
-thus
-#lightdm-gtk3-greeter   ### Remember to comment gdm above and adjust the DM symlink if using LightDM
-#lightdm-gtk-greeter-settings   ### Remember to comment gdm above and adjust the DM symlink if using LightDM
+#icedtea-web-java7
 
-## Applications
-firefox
-#thunderbird
-gimp
-gksu
-gparted
+## Other Applications
+seamonkey
+gvfs
 gvfs-afc
 gvfs-afp
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
-manjaro-welcome
+mumble
+open-dyslexic-fonts
+openssh
+p7zip
+pidgin
+purple-plugin-pack
+rhythmbox
+thunderbird
+tomboy
+udiskie
+udisks
+udisks2
+vlc
+gnome-initial-setup
 
-## Network
-netctl
-openresolv
-blueman
-
-## Xorg Packages
-inxi
-libdnet
-mesa-demos
->x86_64 lib32-mesa-demos
-uriparser
-xf86-input-acecad
-xf86-input-aiptek
-xf86-input-evdev
-xf86-input-joystick
-xf86-input-keyboard
-xf86-input-mouse
-xf86-input-synaptics
-xf86-input-void
-xf86-input-wacom
-xinetd
-xorg-server
-xorg-server-utils
-xorg-twm
-xorg-utils
-xorg-xinit
-xorg-xkill
-
-## Artwork
-manjaro-artwork
+##plymouth themes
+plymouth-theme-manjaro
 plymouth-theme-manjaro-elegant
 
+#extra cli apps
+surfraw
+elinks
+testdisk
+sox
+bsd-games #for tintin's encryption support
+#package management
+ffmpegthumbnailer
+manjaro-settings-manager
+pamac
+
 ## Packages for Sound and Audio
+espeak
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -112,39 +172,31 @@ gstreamer0.10-bad-plugins
 gstreamer0.10-base-plugins
 gstreamer0.10-good-plugins
 gstreamer0.10-ugly-plugins
-flashplugin
 libdvdcss
 manjaro-alsa
 manjaro-pulse
-
-## Package management
-pamac
-polkit-gnome
-
-## Games
-steam
-steam-native
-
-## Java
-icedtea-web
+pa-applet
+pavucontrol
+pulseaudio-ctl
 
 ## Printing
 manjaro-printer
 
 ## Office
-#abiword
-#gnumeric
-#libreoffice-installer
-libreoffice-still-en-US
-#libreoffice-still-base
-libreoffice-still-calc
-#libreoffice-still-draw
-libreoffice-still-gnome
-libreoffice-still-impress
-libreoffice-still-math
-#libreoffice-still-postgresql-connector
-libreoffice-still-writer
+libreoffice-still
 
+#accessibility#
+ #blather
+eviacam
+java-atk-wrapper
+qt-at-spi
+
+#some extra networkmanager plugins
+networkmanager-openvpn
+networkmanager-openconnect
+networkmanager-pptp
+networkmanager-dispatcher-ntpd
+networkmanager-dispatcher-sshd
 ## AUR Access
 autoconf
 automake
@@ -152,11 +204,22 @@ binutils
 bison
 fakeroot
 flex
->i686 gcc
->x86_64 gcc-multilib
+gcc
+git
 libtool
 m4
 make
 patch
 subversion
+svn
 yaourt
+#my own personal apps
+#mate-terminal
+#mednafen
+#dolphin-emu
+#mupen64plus
+#linuxconsole
+#newsbeuter
+bash-completion
+bleachbit
+
