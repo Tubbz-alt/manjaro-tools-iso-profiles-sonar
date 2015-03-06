@@ -81,7 +81,7 @@ file-roller
 # five-or-more
 #four-in-a-row
 gedit
-#gedit310
+gedit-plugins
 #gnome-chess
 gnome-clocks
 gnome-color-manager
@@ -214,12 +214,6 @@ subversion
 svn
 yaourt
 #my own personal apps
-#mate-terminal
-#mednafen
-#dolphin-emu
-#mupen64plus
-#linuxconsole
-#newsbeuter
 bash-completion
 bleachbit
 
