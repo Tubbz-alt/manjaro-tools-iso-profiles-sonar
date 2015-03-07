@@ -1,5 +1,5 @@
 ---
-componentName:  sonar-gnome
+componentName:  sonar-mate
 
 strings:
     productName:         Sonar GNU Linux
