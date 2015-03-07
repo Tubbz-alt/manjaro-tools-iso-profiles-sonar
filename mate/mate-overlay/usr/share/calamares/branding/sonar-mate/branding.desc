@@ -1,16 +1,17 @@
 ---
-componentName:  sonar-mate
+componentName:  sonar-gnome
 
 strings:
-    productName:        Sonar GNU Linux
-    version:            2015.1
-    shortVersion:       2015.1
-    versionedName:      Sonar GNU Linux  2015.1 "Mate Edition"
-    shortVersionedName: Sonar Linux 2015.1
+    productName:         Sonar GNU Linux
+    shortProductName:    Sonar
+    version:             2015.1
+    shortVersion:        2015.1
+    versionedName:       Sonar GNU Linux  2015.1 "Mate Edition"
+    shortVersionedName:  Sonar Linux 2015.1
+    bootloaderEntryName: Sonar
 
 images:
-    productLogo:        "squid.png"
-    productIcon:        "logo.png"
+    productLogo:         "squid.png"
+    productIcon:         "logo.png"
 
-slideshow:
-    - "slide.png"
+slideshow:               "show.qml"
