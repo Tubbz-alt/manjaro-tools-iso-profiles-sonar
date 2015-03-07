@@ -1,4 +1,4 @@
-manjaro-tools-iso-profiles
-==========================
+manjaro-tools-iso-profiles-sonar
+================================
 
-manjaro-tools-iso-profiles
+ISO profiles for Sonar GNU/Linux

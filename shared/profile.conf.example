@@ -3,9 +3,9 @@
 ##########################################
 
 # possible values: openrc,systemd
-initsys="systemd"
+# initsys="systemd"
 
-displaymanager="lightdm"
+# displaymanager="lightdm"
 
 ################ install ################
 
