@@ -151,5 +151,4 @@ smartmontools
 tlp
 wireless_tools
 
-## ucode for new cpus
-intel-ucode
+
