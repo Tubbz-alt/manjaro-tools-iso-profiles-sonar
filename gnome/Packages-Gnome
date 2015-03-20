@@ -148,8 +148,8 @@ vlc
 gnome-initial-setup
 
 ##plymouth themes
-plymouth-theme-manjaro
-plymouth-theme-manjaro-elegant
+#plymouth-theme-manjaro
+#plymouth-theme-manjaro-elegant
 
 #extra cli apps
 surfraw

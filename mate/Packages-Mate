@@ -196,8 +196,8 @@ testdisk
 #Sound theme support
 sound-theme-freedesktop
 #plymouth themes
-plymouth-theme-manjaro
-plymouth-theme-manjaro-elegant
+#plymouth-theme-manjaro
+#plymouth-theme-manjaro-elegant
 
 
 
