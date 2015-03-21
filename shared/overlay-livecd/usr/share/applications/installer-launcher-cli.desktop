@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Install Sonar Linux (cli)
+Name[pl]=Zainstaluj Sonar Linux (cli)
+GenericName=Cli Installer
+Comment=Install the operating system to disk
+Comment[pl]=Zainstaluj Sonar Linux na swoim komputerze
+Exec=sudo /usr/bin/setup
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=System;
