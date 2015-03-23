@@ -5,7 +5,6 @@ Type=Application
 Name=pulseaudio-ctl
 Comment=Set Volume to 70%
 Exec=/opt/livecd/pulseaudio-ctl-normal
-OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
 Hidden=false
