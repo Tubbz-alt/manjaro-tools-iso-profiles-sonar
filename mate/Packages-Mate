@@ -13,7 +13,6 @@ uriparser
 xf86-input-acecad
 xf86-input-aiptek
 xf86-input-evdev
-xf86-input-joystick
 xf86-input-keyboard
 xf86-input-mouse
 xf86-input-synaptics
@@ -35,7 +34,7 @@ faenza-green-icon-theme
 numix-manjaro-themes
 
 #login dm
-lxdm
+lightdm
 #mate group
 
 marco
@@ -196,8 +195,8 @@ testdisk
 #Sound theme support
 sound-theme-freedesktop
 #plymouth themes
-#plymouth-theme-manjaro
-#plymouth-theme-manjaro-elegant
+plymouth-theme-manjaro
+plymouth-theme-manjaro-elegant
 
 
 
@@ -212,19 +211,6 @@ yelp
 #mumble client
 mumble
 
-#my own personal additions
-#variety
-#mupen64plus
-#mate-screensaver-hacks
-#mednafen
-#sdlmame
-#wine
-#wine_gecko
-#wine-mono
-#manjaroiso
-#manjaroiso-profiles
-##clonezilla
-#xmms2
 #gnome keyring and friends
 gnome-keyring
 seahorse
