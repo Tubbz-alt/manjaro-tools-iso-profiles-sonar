@@ -170,3 +170,9 @@ yaourt
 #extra addons
 gedit-plugins
 deluge
+#android tools
+android-tools
+android-udev
+#extra archive formats
+p7zip
+
