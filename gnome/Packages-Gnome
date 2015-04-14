@@ -167,3 +167,6 @@ make
 patch
 subversion
 yaourt
+#extra addons
+gedit-plugins
+deluge
