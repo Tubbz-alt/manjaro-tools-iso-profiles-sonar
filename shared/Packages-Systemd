@@ -151,4 +151,6 @@ smartmontools
 tlp
 wireless_tools
 
+#sensors library and tools
+lm_sensors
 
