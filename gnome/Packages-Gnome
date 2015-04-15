@@ -133,7 +133,7 @@ pavucontrol
 pulseaudio-ctl
 
 ## Package management
-pamac
+gnome-software
 polkit-gnome
 
 ## Games
