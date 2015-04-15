@@ -151,6 +151,8 @@ smartmontools
 tlp
 wireless_tools
 
+#microcode for new processors
+intel-ucode
 #sensors library and tools
 lm_sensors
 #media info package
