@@ -1,8 +1,5 @@
 ### Manjaro Packages
 
-## Xorg
-mhwd
-
 ## Xorg Packages
 inxi
 libdnet
@@ -76,8 +73,8 @@ mozo
 pluma
 #mate applets
 mate-applet-lockkeys
-mate-applet-streamer    
-mate-applets     
+mate-applet-streamer
+mate-applets
 
 ## Network
 netctl
