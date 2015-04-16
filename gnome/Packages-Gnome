@@ -48,13 +48,14 @@ yelp
 gnome-extra
 gnome-tweak-tool
 gufw # firewall
-manjaro-settings-manager
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 #lightdm-gtk3-greeter   ### Remember to comment gdm above and adjust the DM symlink if using #LightDM
 #lightdm-gtk-greeter-settings   ### Remember to comment gdm above and adjust the DM symlink if using LightDM
+#setup gui
+gnome-initial-setup
 
 ## Applications
 firefox
