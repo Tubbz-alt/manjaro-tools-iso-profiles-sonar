@@ -156,3 +156,7 @@ lm_sensors
 #media info package
 mediainfo #this package provides lots of audio and video format info to nautilus, format, bit rate, frames per second, etc.
 
+#blu ray support
+libbluray
+libaacs
+
