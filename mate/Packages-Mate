@@ -1,6 +1,9 @@
-###ManjaroPackages
+### Manjaro Packages
 
-##XorgPackages
+## Xorg
+mhwd
+
+## Xorg Packages
 inxi
 libdnet
 mesa-demos
@@ -22,7 +25,7 @@ xorg-twm
 xorg-utils
 xorg-xinit
 
-##Artwork
+## Artwork
 #nitrux-icon-theme
 manjaro-artwork
 xcursor-simpleandsoft
@@ -30,9 +33,9 @@ xcursor-vanilla-dmz-aa
 faenza-green-icon-theme
 numix-manjaro-themes
 
-#logindm
+#login dm
 lightdm
-#mategroup
+#mate group
 
 marco
 mate-backgrounds
@@ -47,7 +50,7 @@ mate-session-manager
 mate-settings-daemon-pulseaudio
 mate-themes
 mate-themes-extras
-#mate-extragroup
+#mate-extra group
 caja-gksu
 caja-image-converter
 caja-open-terminal
@@ -71,12 +74,12 @@ mate-user-share
 mate-utils
 mozo
 pluma
-#mateapplets
+#mate applets
 mate-applet-lockkeys
-mate-applet-streamer
-mate-applets
+mate-applet-streamer    
+mate-applets     
 
-##Network
+## Network
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
@@ -84,9 +87,9 @@ network-manager-applet
 openresolv
 modem-manager-gui
 rp-pppoe
-#guifrontendtoiptables
+#gui frontend to iptables
 gufw
-##Applications
+## Applications
 brasero
 #chromium-chromevox
 seamonkey
@@ -109,11 +112,11 @@ udiskie
 udisks
 udisks2
 vlc
-#audaciousmediaplayer
+#audacious media player
 audacious
 audacious-plugins
 xdg-user-dirs-gtk
-##PackagesforSoundandAudio
+## Packages for Sound and Audio
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -130,10 +133,10 @@ paprefs
 pa-applet
 pulseaudio-ctl
 
-##Packagemanagement
+## Package management
 pamac
 
-##Fonts
+## Fonts
 ttf-dejavu
 cantarell-fonts
 ttf-droid
@@ -141,10 +144,10 @@ ttf-inconsolata
 ttf-liberation
 adobe-source-sans-pro-fonts
 
-##Office
-##Office
+## Office
+## Office
 libreoffice-still
-##AURAccess
+## AUR Access
 autoconf
 automake
 binutils
@@ -155,13 +158,13 @@ gcc
 libtool
 m4
 make
-patch
+patch  
 yaourt
 
-##Printing
+## Printing
 manjaro-printer
 
-#accessibilitypackages
+#accessibility packages
 orca
 speech-dispatcher
 espeakup
@@ -171,7 +174,7 @@ qt-at-spi
 java-atk-wrapper
 
 
-#someusefulcliapps
+#some useful cli apps
 screen
 sox
 surfraw
@@ -182,66 +185,66 @@ elinks
 lynx
 smartmontools
 youtube-viewer
-#rescueapps
+#rescue apps
 fsarchiver
 rsync
 parted
 bash-completion
 testdisk
 
-#Soundthemesupport
+#Sound theme support
 sound-theme-freedesktop
-#plymouththemes
+#plymouth themes
 plymouth-theme-sonar-elegant
 
-#someextranetworkmanagerplugins
+#some extra networkmanager plugins
 networkmanager-openvpn
 networkmanager-openconnect
 networkmanager-pptp
 networkmanager-dispatcher-ntpd
 networkmanager-dispatcher-sshd
-#yelptoolforreadingthehelpfiles
+#yelp tool for reading the help files
 yelp
-#mumbleclient
+#mumble client
 mumble
 
-#gnomekeyringandfriends
+#gnome keyring and friends
 gnome-keyring
 seahorse
-#bluetoothutils
+#bluetooth utils
 blueman
 bluez
 bluez-utils
 bluez-hid2hci
 dnsmasq
-#bleachbitfilecleaner
+#bleachbit file cleaner
 bleachbit
-#iPhonefusemounter
+#iPhone fuse mounter
 ifuse
 
-#gtkiPodgui
+#gtk iPod gui
 gtkpod
 id3v2
 
-#androidudevrulesandtools
+#android udev rules and tools
 android-tools
 android-udev
 
-#additionalarchiveformatsupport
+#additional archive format support
 p7zip
 
-#userfriendlybackupgui
+#user friendly backup gui
 deja-dup
-#extrapluginsforpidgin
+#extra plugins for pidgin
 purple-plugin-pack
 pidgin-otr
 
-#acpipackage
+#acpi package
 acpi
-#IthoughtIputthisonhere,butapparentlynot
+#I thought I put this on here, but apparently not
 evince
 
-#canonical'snotification-daemonoverlay
+#canonical's notification-daemon overlay
 notify-osd
 
 onboard
