@@ -1,13 +1,10 @@
-### Manjaro Packages
+###ManjaroPackages
 
-## Xorg
-mhwd
-
-## Xorg Packages
+##XorgPackages
 inxi
 libdnet
 mesa-demos
->x86_64 lib32-mesa-demos
+>x86_64lib32-mesa-demos
 #netkit-bsd-finger
 uriparser
 xf86-input-acecad
@@ -25,7 +22,7 @@ xorg-twm
 xorg-utils
 xorg-xinit
 
-## Artwork
+##Artwork
 #nitrux-icon-theme
 manjaro-artwork
 xcursor-simpleandsoft
@@ -33,9 +30,9 @@ xcursor-vanilla-dmz-aa
 faenza-green-icon-theme
 numix-manjaro-themes
 
-#login dm
+#logindm
 lightdm
-#mate group
+#mategroup
 
 marco
 mate-backgrounds
@@ -50,36 +47,36 @@ mate-session-manager
 mate-settings-daemon-pulseaudio
 mate-themes
 mate-themes-extras
-#mate-extra group
+#mate-extragroup
 caja-gksu
- caja-image-converter
- caja-open-terminal
- caja-sendto
- caja-share
-# mate-notification-daemon
+caja-image-converter
+caja-open-terminal
+caja-sendto
+caja-share
+#mate-notification-daemon
 engrampa
- eom
- galculator-gtk2
- mate-applets
- mate-icon-theme-faenza
- mate-media-pulseaudio
- mate-netspeed
- mate-power-manager
- mate-screensaver
- mate-sensors-applet
- mate-system-monitor
- #mate-system-tools
- mate-terminal
- mate-user-share
- mate-utils
- mozo
- pluma
-#mate applets
+eom
+galculator-gtk2
+mate-applets
+mate-icon-theme-faenza
+mate-media-pulseaudio
+mate-netspeed
+mate-power-manager
+mate-screensaver
+mate-sensors-applet
+mate-system-monitor
+#mate-system-tools
+mate-terminal
+mate-user-share
+mate-utils
+mozo
+pluma
+#mateapplets
 mate-applet-lockkeys
-mate-applet-streamer    
-mate-applets     
+mate-applet-streamer
+mate-applets
 
-## Network
+##Network
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
@@ -87,9 +84,9 @@ network-manager-applet
 openresolv
 modem-manager-gui
 rp-pppoe
-#gui frontend to iptables
+#guifrontendtoiptables
 gufw
-## Applications
+##Applications
 brasero
 #chromium-chromevox
 seamonkey
@@ -112,11 +109,11 @@ udiskie
 udisks
 udisks2
 vlc
-#audacious media player
+#audaciousmediaplayer
 audacious
 audacious-plugins
 xdg-user-dirs-gtk
-## Packages for Sound and Audio
+##PackagesforSoundandAudio
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -133,10 +130,10 @@ paprefs
 pa-applet
 pulseaudio-ctl
 
-## Package management
+##Packagemanagement
 pamac
 
-## Fonts
+##Fonts
 ttf-dejavu
 cantarell-fonts
 ttf-droid
@@ -144,10 +141,10 @@ ttf-inconsolata
 ttf-liberation
 adobe-source-sans-pro-fonts
 
-## Office
-## Office
+##Office
+##Office
 libreoffice-still
-## AUR Access
+##AURAccess
 autoconf
 automake
 binutils
@@ -158,13 +155,13 @@ gcc
 libtool
 m4
 make
-patch  
+patch
 yaourt
 
-## Printing
+##Printing
 manjaro-printer
 
-#accessibility packages
+#accessibilitypackages
 orca
 speech-dispatcher
 espeakup
@@ -174,7 +171,7 @@ qt-at-spi
 java-atk-wrapper
 
 
-#some useful cli apps
+#someusefulcliapps
 screen
 sox
 surfraw
@@ -185,69 +182,66 @@ elinks
 lynx
 smartmontools
 youtube-viewer
-#rescue apps
+#rescueapps
 fsarchiver
 rsync
 parted
 bash-completion
 testdisk
 
-#Sound theme support
+#Soundthemesupport
 sound-theme-freedesktop
-#plymouth themes
-plymouth-theme-manjaro
-plymouth-theme-manjaro-elegant
+#plymouththemes
+plymouth-theme-sonar-elegant
 
-
-
-#some extra networkmanager plugins
+#someextranetworkmanagerplugins
 networkmanager-openvpn
 networkmanager-openconnect
 networkmanager-pptp
 networkmanager-dispatcher-ntpd
 networkmanager-dispatcher-sshd
-#yelp tool for reading the help files
+#yelptoolforreadingthehelpfiles
 yelp
-#mumble client
+#mumbleclient
 mumble
 
-#gnome keyring and friends
+#gnomekeyringandfriends
 gnome-keyring
 seahorse
-#bluetooth utils
+#bluetoothutils
 blueman
 bluez
 bluez-utils
 bluez-hid2hci
 dnsmasq
-#bleachbit file cleaner
+#bleachbitfilecleaner
 bleachbit
-#iPhone fuse mounter
+#iPhonefusemounter
 ifuse
 
-#gtk iPod gui
+#gtkiPodgui
 gtkpod
 id3v2
 
-#android udev rules and tools
+#androidudevrulesandtools
 android-tools
 android-udev
 
-#additional archive format support
+#additionalarchiveformatsupport
 p7zip
 
-#user friendly backup gui
+#userfriendlybackupgui
 deja-dup
-#extra plugins for pidgin
+#extrapluginsforpidgin
 purple-plugin-pack
 pidgin-otr
 
-#acpi package
+#acpipackage
 acpi
-#I thought I put this on here, but apparently not
+#IthoughtIputthisonhere,butapparentlynot
 evince
 
-#canonical's notification-daemon overlay
+#canonical'snotification-daemonoverlay
 notify-osd
 
 onboard
