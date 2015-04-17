@@ -91,7 +91,7 @@ openresolv
 #blueman
 bluez-firmware
 bluez-plugins
-
+bluez-hid2hci
 ## Xorg Packages
 inxi
 libdnet
