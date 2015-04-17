@@ -89,6 +89,8 @@ dasher
 netctl
 openresolv
 #blueman
+bluez-firmware
+bluez-plugins
 
 ## Xorg Packages
 inxi
