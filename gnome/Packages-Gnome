@@ -178,4 +178,7 @@ android-tools
 android-udev
 #extra archive formats
 p7zip
+cabextract
+cpio
+
 
