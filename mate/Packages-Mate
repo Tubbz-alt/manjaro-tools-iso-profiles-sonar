@@ -1,8 +1,5 @@
 ### Manjaro Packages
 
-## Xorg
-mhwd
-
 ## Xorg Packages
 inxi
 libdnet
@@ -52,32 +49,32 @@ mate-themes
 mate-themes-extras
 #mate-extra group
 caja-gksu
- caja-image-converter
- caja-open-terminal
- caja-sendto
- caja-share
-# mate-notification-daemon
+caja-image-converter
+caja-open-terminal
+caja-sendto
+caja-share
+#mate-notification-daemon
 engrampa
- eom
- galculator-gtk2
- mate-applets
- mate-icon-theme-faenza
- mate-media-pulseaudio
- mate-netspeed
- mate-power-manager
- mate-screensaver
- mate-sensors-applet
- mate-system-monitor
- #mate-system-tools
- mate-terminal
- mate-user-share
- mate-utils
- mozo
- pluma
+eom
+galculator-gtk2
+mate-applets
+mate-icon-theme-faenza
+mate-media-pulseaudio
+mate-netspeed
+mate-power-manager
+mate-screensaver
+mate-sensors-applet
+mate-system-monitor
+#mate-system-tools
+mate-terminal
+mate-user-share
+mate-utils
+mozo
+pluma
 #mate applets
 mate-applet-lockkeys
-mate-applet-streamer    
-mate-applets     
+mate-applet-streamer
+mate-applets
 
 ## Network
 netctl
@@ -195,10 +192,7 @@ testdisk
 #Sound theme support
 sound-theme-freedesktop
 #plymouth themes
-plymouth-theme-manjaro
-plymouth-theme-manjaro-elegant
-
-
+plymouth-theme-sonar-elegant
 
 #some extra networkmanager plugins
 networkmanager-openvpn
