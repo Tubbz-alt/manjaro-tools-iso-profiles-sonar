@@ -133,7 +133,7 @@ libdvdcss
 manjaro-alsa
 manjaro-pulse
 pavucontrol
-pulseaudio-ctl
+#pulseaudio-ctl
 
 ## Package management
 gnome-software

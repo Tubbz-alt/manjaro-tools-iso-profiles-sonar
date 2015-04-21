@@ -1,12 +1,12 @@
 GRUB_DEFAULT=saved
-GRUB_TIMEOUT=5
-GRUB_DISTRIBUTOR="Manjaro"
+GRUB_TIMEOUT=3
+GRUB_DISTRIBUTOR="Sonar"
 GRUB_CMDLINE_LINUX_DEFAULT="quiet"
 GRUB_CMDLINE_LINUX=""
 
 # If you want to enable the save default function, uncomment the following
 # line, and set GRUB_DEFAULT to saved.
-#GRUB_SAVEDEFAULT=true
+GRUB_SAVEDEFAULT=true
 
 # Preload both GPT and MBR modules so that they are not missed
 GRUB_PRELOAD_MODULES="part_gpt part_msdos"
@@ -46,4 +46,4 @@ GRUB_BACKGROUND="/usr/share/grub/background.png"
 #GRUB_THEME="/path/to/gfxtheme"
 
 # Uncomment to get a beep at GRUB start
-#GRUB_INIT_TUNE="480 440 1"
+GRUB_INIT_TUNE="480 440 1"
