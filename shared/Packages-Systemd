@@ -77,7 +77,7 @@ syslinux
 
 
 ## Compression Codecs
-arj
+#arj
 lzop
 unrar
 unzip
