@@ -1,0 +1,4 @@
+DISTRIB_ID=SonarLinux
+DISTRIB_RELEASE=2015.1
+DISTRIB_CODENAME=Ascella
+DISTRIB_DESCRIPTION="Sonar Linux, accessible linux for the visually impaired"
