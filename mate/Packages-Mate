@@ -128,7 +128,7 @@ manjaro-pulse
 pavucontrol
 paprefs
 pa-applet
-pulseaudio-ctl
+#pulseaudio-ctl
 
 ## Package management
 pamac
