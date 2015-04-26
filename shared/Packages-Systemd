@@ -159,4 +159,9 @@ mediainfo #this package provides lots of audio and video format info to nautilus
 #blu ray support
 libbluray
 libaacs
+#extra kernel modules for hardware and fs support
+KERNEL-tp_smapi
+KERNEL-zfs
+KERNEL-rt3562sta
+KERNEL-nvidiabl
 
