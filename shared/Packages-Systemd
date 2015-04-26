@@ -161,7 +161,6 @@ libbluray
 libaacs
 #extra kernel modules for hardware and fs support
 KERNEL-tp_smapi
->x86_64 KERNEL-zfs
 KERNEL-rt3562sta
 KERNEL-nvidiabl
 
