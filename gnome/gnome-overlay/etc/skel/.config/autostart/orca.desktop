@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=orca --replace
-Hidden=false
-X-MATE-Autostart-enabled=true
-Name[en_US]=orca
-Name=orca
-Comment[en_US]=screen reader
-Comment=screen reader
