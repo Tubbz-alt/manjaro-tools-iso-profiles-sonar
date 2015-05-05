@@ -171,3 +171,6 @@ dmidecode
 #optional command line tool to check hardware
 lshw
 surfraw
+#bashc ompletion package
+bash-completion
+
