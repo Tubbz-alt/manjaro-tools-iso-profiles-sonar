@@ -174,9 +174,6 @@ yaourt
 gedit-plugins
 deluge
 seahorse-nautilus #support for encrypting and unencrypting files and folders in nautilus using anything seahorse supports
-#android tools
-android-tools
-android-udev
 #extra archive formats
 p7zip
 cabextract

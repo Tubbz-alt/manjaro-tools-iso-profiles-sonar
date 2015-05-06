@@ -174,3 +174,7 @@ surfraw
 #bashc ompletion package
 bash-completion
 
+#android tools
+android-tools
+android-udev
+
