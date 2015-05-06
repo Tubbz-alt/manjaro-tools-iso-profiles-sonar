@@ -32,6 +32,8 @@ numix-manjaro-themes
 
 #login dm
 lightdm
+
+lightdm-gtk-greeter
 #mate group
 
 marco
