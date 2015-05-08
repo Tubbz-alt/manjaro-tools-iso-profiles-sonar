@@ -66,6 +66,7 @@ gparted
 gvfs-afc
 gvfs-afp
 gvfs-gphoto2
+gvfs-goa
 gvfs-mtp
 gvfs-smb
 #manjaro-welcome
