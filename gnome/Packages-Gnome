@@ -8,6 +8,8 @@ eog
 #epiphany
 evince
 gdm
+#fingerprint daemon for supported finger print readers
+fprintd
 gnome-backgrounds
 gnome-calculator
 gnome-contacts
