@@ -185,3 +185,7 @@ cpio
 #microsoft exchange plugin for evolution
 evolution-ews
 
+#sane packages
+sane
+sane-gt68xx-firmware
+
