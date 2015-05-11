@@ -175,11 +175,13 @@ subversion
 yaourt
 #extra addons
 gedit-plugins
+gedit-code-assistance
 deluge
 seahorse-nautilus #support for encrypting and unencrypting files and folders in nautilus using anything seahorse supports
 #extra archive formats
 p7zip
 cabextract
 cpio
-
+#microsoft exchange plugin for evolution
+evolution-ews
 
