@@ -34,6 +34,9 @@ numix-manjaro-themes
 lightdm
 
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+#finger print support
+fprintd
 #mate group
 
 marco
@@ -215,6 +218,7 @@ blueman
 bluez
 bluez-utils
 bluez-hid2hci
+bluez-firmware
 dnsmasq
 #bleachbit file cleaner
 bleachbit
@@ -248,4 +252,7 @@ notify-osd
 
 onboard
 mousetweaks
+
+sane
+sane-gt68xx-firmware
 
