@@ -178,3 +178,5 @@ bash-completion
 android-tools
 android-udev
 thinkfinger
+nss-mdns #optional dep of avahi, providing multicast support
+
