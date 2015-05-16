@@ -1,0 +1,39 @@
+// moving towards US English
+language en-us 2
+language en-r
+language en 3
+gender male
+
+phonemes en-us
+dictrules 3 6
+option reduce_t 1
+
+stressLength 140 120 190 170 0 0 255 300
+stressAmp  17 16  19 19  19 19  21 19
+
+replace 03 I  i
+replace 03 I2 i
+language variant
+name female_whisper
+gender female
+
+pitch 160 220
+roughness 3
+
+formant 0 105   0 150
+formant 1 110  40 160
+formant 2 110  70 150
+formant 3 110  70 150
+formant 4 115  80 150
+formant 5 115  80 150
+formant 6 110  70 150
+formant 7 110  70 150
+formant 8 110  70 150
+
+stressAdd 0 0 -10 -10 0 0 10 40
+
+// whisper
+voicing 20
+breath 75 75 50 40 15 10
+breathw 150 150 200 200 400 400
+ 
