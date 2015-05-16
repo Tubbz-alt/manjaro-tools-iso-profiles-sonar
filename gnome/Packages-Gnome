@@ -136,6 +136,12 @@ manjaro-pulse
 pavucontrol
 #pulseaudio-ctl
 
+#extra pulse audio modules not included in main pulse package anymore
+pulseaudio-bluetooth
+pulseaudio-equalizer
+pulseaudio-gconf
+pulseaudio-zeroconf
+
 ## Package management
 gnome-software
 polkit-gnome
