@@ -122,6 +122,7 @@ plymouth-theme-sonar-elegant
 
 ## Packages for Sound and Audio
 gst-libav
+gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gstreamer0.10-bad-plugins

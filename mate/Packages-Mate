@@ -120,6 +120,7 @@ audacious-plugins
 xdg-user-dirs-gtk
 ## Packages for Sound and Audio
 gst-libav
+gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gstreamer0.10-base-plugins
