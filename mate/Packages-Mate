@@ -132,8 +132,7 @@ pa-applet
 #pulseaudio-ctl
 
 ## Package management
-pamac
-
+gnome-software
 ## Fonts
 ttf-dejavu
 cantarell-fonts
