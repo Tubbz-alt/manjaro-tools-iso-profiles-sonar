@@ -125,6 +125,9 @@ gst-plugins-base
 gst-plugins-good
 gstreamer0.10-base-plugins
 gstreamer0.10-good-plugins
+libbluray
+libaacs
+libdvdcss
 manjaro-alsa
 manjaro-pulse
 pavucontrol
