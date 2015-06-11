@@ -43,13 +43,12 @@ marco
 mate-backgrounds
 mate-control-center
 mate-desktop
-mate-dialogs
 mate-icon-theme
 mate-menus
 mate-panel
 mate-polkit
 mate-session-manager
-mate-settings-daemon-pulseaudio
+mate-settings-daemon
 mate-themes
 mate-themes-extras
 #mate-extra group
@@ -64,7 +63,7 @@ eom
 galculator-gtk2
 mate-applets
 mate-icon-theme-faenza
-mate-media-pulseaudio
+mate-media
 mate-netspeed
 mate-power-manager
 mate-screensaver
