@@ -180,3 +180,6 @@ nss-mdns #optional dep of avahi, providing multicast support
 
 media-player-info #needed by calamares installer, but useful for cli and desktop systems.
 
+#command line battery saving tool
+powertop
+
