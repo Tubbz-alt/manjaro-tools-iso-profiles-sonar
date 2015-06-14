@@ -27,7 +27,6 @@ gnome-session
 gnome-settings-daemon
 gnome-shell
 gnome-shell-extensions
-gnome-system-log
 gnome-system-monitor
 gnome-terminal
 gnome-themes-standard
@@ -47,15 +46,41 @@ yelp
 
 
 ## Gnome Main Packages
-gnome-extra
+#gnome-extra group
+accerciser
+bijiben
+brasero
+cheese
+devhelp
+evolution
+file-roller
+gedit
+gedit-code-assistance
+gnome-calendar
+gnome-clocks
+gnome-code-assistance
+gnome-color-manager
+gnome-devel-docs
+gnome-documents
+gnome-getting-started-docs
+gnome-logs
+gnome-maps
+gnome-music
+gnome-nettool
+gnome-photos
+gnome-sound-recorder
 gnome-tweak-tool
+gnome-weather
+nautilus-sendto
+orca
+rygel
+seahorse
+vinagre
 gufw # firewall
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
-#lightdm-gtk3-greeter   ### Remember to comment gdm above and adjust the DM symlink if using #LightDM
-#lightdm-gtk-greeter-settings   ### Remember to comment gdm above and adjust the DM symlink if using LightDM
 #setup gui
 gnome-initial-setup
 
@@ -71,13 +96,10 @@ gvfs-gphoto2
 gvfs-goa
 gvfs-mtp
 gvfs-smb
-#manjaro-welcome
 pidgin
 purple-plugin-pack
 pidgin-otr
 mumble
-
-
 #accessibility 
 orca
 espeak
@@ -133,7 +155,6 @@ libbluray
 manjaro-alsa
 manjaro-pulse
 pavucontrol
-#pulseaudio-ctl
 
 #extra pulse audio modules not included in main pulse package anymore
 pulseaudio-bluetooth
@@ -145,10 +166,6 @@ pulseaudio-zeroconf
 gnome-software
 polkit-gnome
 
-## Games
-#steam
-#steam-native
-
 ## Java
 icedtea-web
 
@@ -156,9 +173,6 @@ icedtea-web
 manjaro-printer
 
 ## Office
-#abiword
-#gnumeric
-#libreoffice-installer
 libreoffice-fresh
 
 ## AUR Access
@@ -178,7 +192,6 @@ subversion
 yaourt
 #extra addons
 gedit-plugins
-gedit-code-assistance
 deluge
 seahorse-nautilus #support for encrypting and unencrypting files and folders in nautilus using anything seahorse supports
 #extra archive formats
@@ -191,4 +204,9 @@ evolution-ews
 #sane packages
 sane
 sane-gt68xx-firmware
-
+#simple scanning utility, supposed to be in gnome extra but for some reason isn't
+simple-scan
+#shotwell photo manager
+shotwell
+#nautilus actions, equivalent of shell extensions in windows
+nautilus-actions
