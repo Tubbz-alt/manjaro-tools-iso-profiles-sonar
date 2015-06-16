@@ -38,7 +38,7 @@ mousetweaks
 mutter
 nautilus
 sushi
-totem
+#totem
 tracker
 vino
 xdg-user-dirs-gtk
@@ -210,3 +210,8 @@ simple-scan
 shotwell
 #nautilus actions, equivalent of shell extensions in windows
 nautilus-actions
+#standard media playing software
+rhythmbox #for music management.
+libgpod #for management of apple iPod, iPhone, etc devices
+vlc #for basic file playback, conversion, dvd and bluray playback
+
