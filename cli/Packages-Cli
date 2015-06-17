@@ -31,3 +31,21 @@ nano
 #old standby text editor
 vim
 
+#multimedia codecs
+gst-bad-plugins
+gst-libav
+gst-good-plugins
+gst-base-plugins
+#older gstreamer codecs
+gstreamer0.10-plugins-bad
+gstreamer0.10-plugins-good
+gstreamer0.10-plugins-base
+ffmpeg
+#swiss army knife audio editor
+sox
+#surfraw
+surfraw
+
+#patent free codec tools
+vorbis-tools
+opus-tools
