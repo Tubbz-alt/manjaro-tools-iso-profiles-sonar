@@ -11,8 +11,11 @@ mplayer
 mutt
 #command line news reader
 newsbeuter
+#command line irc client
+irssi
+#multiple protocol sync daemon for irssi
+bitlbee
 #partition management
-fdisk
 gptfdisk
 
 #partition recovery

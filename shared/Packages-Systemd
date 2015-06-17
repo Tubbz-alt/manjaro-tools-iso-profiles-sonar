@@ -182,6 +182,4 @@ media-player-info #needed by calamares installer, but useful for cli and desktop
 
 #command line battery saving tool
 powertop
-#command line document converter
-unoconv
 
