@@ -1,40 +1,30 @@
-## Xorg Packages
-inxi
-libdnet
-mesa-demos
->x86_64 lib32-mesa-demos
-uriparser
-xf86-input-acecad
-xf86-input-aiptek
-xf86-input-evdev
-xf86-input-joystick
-xf86-input-keyboard
-xf86-input-mouse
-xf86-input-synaptics
-xf86-input-void
-xf86-input-wacom
-xinetd
-xorg-server
-xorg-server-utils
-xorg-twm
-xorg-utils
-xorg-xinit
-
-## Basic packages
-dconf
-desktop-file-utils
-
-## Packages for Sound and Audio
-manjaro-alsa
-
-## Artwork
-manjaro-artwork
-
-## Base Packages
-gtk2
-
-## Network
+#espeakup synth module for speakup
+espeakup
+#wifi management
 netctl
-networkmanager
-networkmanager-dispatcher-ntpd
-openresolv
+#good command line web browser
+elinks
+#command line media player
+mplayer
+
+#command line email client
+mutt
+#command line news reader
+newsbeuter
+#partition management
+fdisk
+gptfdisk
+
+#partition recovery
+parted
+testdisk
+#bluetooth support
+bluez-firmware
+bluez-plugins
+bluez-hid2hci
+
+#user friendly text editor
+nano
+#old standby text editor
+vim
+
