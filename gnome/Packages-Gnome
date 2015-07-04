@@ -76,7 +76,7 @@ orca
 rygel
 seahorse
 vinagre
-gufw # firewall
+firewalld # firewall
 networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
