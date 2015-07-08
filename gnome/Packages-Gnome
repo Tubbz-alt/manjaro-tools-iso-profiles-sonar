@@ -192,7 +192,7 @@ subversion
 yaourt
 #extra addons
 gedit-plugins
-deluge
+transmission-gtk
 seahorse-nautilus #support for encrypting and unencrypting files and folders in nautilus using anything seahorse supports
 #extra archive formats
 p7zip
@@ -217,4 +217,6 @@ vlc #for basic file playback, conversion, dvd and bluray playback
 
 #command line document converter
 unoconv
-
+#why this wasn't hear by default I've no idea
+paprefs
+pulseaudio-ctl

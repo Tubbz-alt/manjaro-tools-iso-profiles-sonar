@@ -265,3 +265,6 @@ libgpod #for management of iPod, iPhone, etc devices
 #command line document converter
 unoconv
 
+#why this wasn't hear by default I've no idea
+paprefs
+pulseaudio-ctl
