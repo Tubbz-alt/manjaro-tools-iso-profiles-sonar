@@ -6,4 +6,4 @@ Exec=/usr/bin/thus
 Icon=/usr/share/thus/data/manjaro-icon.png
 Terminal=False
 Type=Application
-Categories=System;
+Categories=GTK;System;
