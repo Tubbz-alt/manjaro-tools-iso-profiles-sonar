@@ -161,7 +161,7 @@ pulseaudio-bluetooth
 pulseaudio-equalizer
 pulseaudio-gconf
 pulseaudio-zeroconf
-
+pulseaudio-lirc
 ## Package management
 gnome-software
 polkit-gnome
@@ -222,3 +222,6 @@ unoconv
 #why this wasn't hear by default I've no idea
 paprefs
 pulseaudio-ctl
+#bleachbit file cleaner
+bleachbit
+

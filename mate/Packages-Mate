@@ -256,12 +256,12 @@ pulseaudio-bluetooth
 pulseaudio-equalizer
 pulseaudio-gconf
 pulseaudio-zeroconf
-
+pulseaudio-lirc
 #standard media playing software.
 vlc #for basic file playback, conversion, and dvd and bluray playback
 rhythmbox #for music management
 libgpod #for management of iPod, iPhone, etc devices
-
+asunder
 #command line document converter
 unoconv
 
