@@ -225,3 +225,7 @@ pulseaudio-ctl
 #bleachbit file cleaner
 bleachbit
 
+#windows  filesharing packages
+samba
+nautilus-share
+
