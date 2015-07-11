@@ -270,3 +270,6 @@ unoconv
 #why this wasn't hear by default I've no idea
 paprefs
 pulseaudio-ctl
+#windows filesharing package
+samba
+
