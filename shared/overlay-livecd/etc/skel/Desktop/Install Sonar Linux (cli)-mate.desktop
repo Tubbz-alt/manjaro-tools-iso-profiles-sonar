@@ -6,5 +6,5 @@ Icon=utilities-terminal
 Terminal=true
 Type=Application
 Categories=System;
-OnlyShowIn=Mate
+OnlyShowIn=Mate;
 Name[en_US]=Install Sonar Linux (cli)-mate
