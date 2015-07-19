@@ -158,3 +158,6 @@ KERNEL-rt3562sta
 #KERNEL-nvidiabl
 
 
+#blu ray decryption
+libaacs
+
