@@ -165,3 +165,10 @@ libaacs
 antiword
 unrtf
 
+#opus and vorbis utils
+vorbis-tools
+opusfile
+opus-tools
+#command line normalize tool (only works on mp3, ogg and wav files)
+normalize
+
