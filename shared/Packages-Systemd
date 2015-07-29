@@ -160,6 +160,8 @@ KERNEL-rt3562sta
 
 #blu ray decryption
 libaacs
+#dvd decryption
+libdvdcss
 
 #ms word and rtf extractors
 antiword
