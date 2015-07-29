@@ -216,6 +216,8 @@ libgpod #for management of apple iPod, iPhone, etc devices
 vlc #for basic file playback, conversion, dvd and bluray playback
 #cd ripper
 sound-juicer
+#video player (for the audio video tab in nautilus)
+totem
 
 #command line document converter
 unoconv
