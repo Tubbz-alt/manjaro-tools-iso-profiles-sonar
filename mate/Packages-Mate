@@ -165,7 +165,7 @@ manjaro-printer
 orca
 speech-dispatcher
 espeakup
-#notify-osd
+notify-osd
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
