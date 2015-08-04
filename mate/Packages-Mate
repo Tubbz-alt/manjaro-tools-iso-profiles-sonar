@@ -160,7 +160,7 @@ yaourt
 
 ## Printing
 manjaro-printer
-python-smbc
+python-pysmbc
 #accessibility packages
 orca
 speech-dispatcher
