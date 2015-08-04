@@ -7,6 +7,6 @@ Comment[pl]=Zainstaluj Sonar Linux na swoim komputerze
 Exec=sudo /usr/bin/setup
 Icon=utilities-terminal
 Terminal=true
-OnlyShowIn=MATE
+OnlyShowIn=mate
 Type=Application
 Categories=System;
