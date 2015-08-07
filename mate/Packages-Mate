@@ -262,6 +262,7 @@ vlc #for basic file playback, conversion, and dvd and bluray playback
 rhythmbox #for music management
 libgpod #for management of iPod, iPhone, etc devices
 atomicparsley #for embedding thumbnails into m4a files
+shairplay #for viewing and playing songs from apple devices over the network
 asunder #lightweight cd ripper
 libimobiledevice
 libplist
