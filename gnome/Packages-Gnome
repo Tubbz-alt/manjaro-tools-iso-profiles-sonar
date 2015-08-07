@@ -213,6 +213,7 @@ nautilus-actions
 #standard media playing software
 rhythmbox #for music management.
 libgpod #for management of apple iPod, iPhone, etc devices
+atomicparsley #for embedding thumbnails in the m4a format
 vlc #for basic file playback, conversion, dvd and bluray playback
 #cd ripper
 sound-juicer
