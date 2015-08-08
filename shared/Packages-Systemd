@@ -70,6 +70,8 @@ KERNEL
 grub
 mkinitcpio-nfs-utils
 os-prober
+#secure boot tools
+lockdown-ms
 pkg-config
 squashfs-tools
 sudo
