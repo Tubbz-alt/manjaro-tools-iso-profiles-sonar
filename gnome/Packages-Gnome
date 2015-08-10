@@ -68,7 +68,6 @@ gnome-maps
 gnome-music
 gnome-nettool
 gnome-photos
-gnome-sound-recorder
 gnome-tweak-tool
 gnome-weather
 nautilus-sendto
@@ -200,10 +199,12 @@ nautilus-actions
 rhythmbox #for music management.
 libgpod #for management of apple iPod, iPhone, etc devices
 atomicparsley #for embedding thumbnails in the m4a format
+libplist #for parsing apple .plist files
 shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
 #cd ripper
 sound-juicer
+gnome-sound-recorder
 
 #command line document converter
 unoconv
