@@ -1,4 +1,4 @@
-### Manjaro Packages
+### Sonar gnome Packages
 
 ## gnome package group, minus epiphany, because we'll use firefox
 adwaita-icon-theme
@@ -38,7 +38,7 @@ mousetweaks
 mutter
 nautilus
 sushi
-#totem
+totem
 tracker
 vino
 xdg-user-dirs-gtk
@@ -147,9 +147,11 @@ gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
+gst-plugins-ugly
 gstreamer0.10-bad-plugins
 gstreamer0.10-base-plugins
 gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
 libbluray
 #flashplugin
 manjaro-alsa
@@ -218,8 +220,6 @@ shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
 #cd ripper
 sound-juicer
-#video player (for the audio video tab in nautilus)
-totem
 
 #command line document converter
 unoconv

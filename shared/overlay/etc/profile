@@ -25,6 +25,6 @@ unset TERMCAP
 
 # Man is much better than us at figuring this out
 unset MANPATH
-BROWSER=/firefox
+BROWSER=/usr/bin/firefox
 #helps the cli installer
 export dialogopts=--visit-items
