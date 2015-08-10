@@ -129,6 +129,7 @@ b43-fwcutter
 dhclient
 dnsmasq
 iptables
+nftables
 ipw2100-fw
 ipw2200-fw
 iw
@@ -154,10 +155,6 @@ tlp
 wireless_tools
 
 
-#extra kernel modules for hardware and fs support
-#KERNEL-tp_smapi
-KERNEL-rt3562sta
-#KERNEL-nvidiabl
 
 
 #blu ray decryption
