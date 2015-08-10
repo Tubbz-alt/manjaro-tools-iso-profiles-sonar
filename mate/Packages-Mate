@@ -37,7 +37,7 @@ caja-image-converter
 caja-open-terminal
 caja-sendto
 caja-share
-#mate-notification-daemon
+mate-notification-daemon
 engrampa
 eom
 galculator-gtk2
@@ -69,10 +69,9 @@ network-manager-applet
 openresolv
 modem-manager-gui
 rp-pppoe
-#gui frontend to iptables
-gufw
+#gui firewall
+firewalld
 ## Applications
-brasero
 #chromium-chromevox
 firefox
 gksu
@@ -109,7 +108,7 @@ manjaro-pulse
 pavucontrol
 paprefs
 pa-applet
-#pulseaudio-ctl
+pulseaudio-ctl
 
 ## Package management
 gnome-software
@@ -214,7 +213,7 @@ p7zip
 #user friendly backup gui
 deja-dup
 #extra plugins for pidgin
-purple-plugin-pack
+#purple-plugin-pack
 pidgin-otr
 
 #acpi package
@@ -222,8 +221,6 @@ acpi
 #I thought I put this on here, but apparently not
 evince
 
-#canonical's notification-daemon overlay
-notify-osd
 
 onboard
 mousetweaks
@@ -238,6 +235,7 @@ pulseaudio-gconf
 pulseaudio-zeroconf
 pulseaudio-lirc
 #standard media playing software.
+brasero
 vlc #for basic file playback, conversion, and dvd and bluray playback
 rhythmbox #for music management
 libgpod #for management of iPod, iPhone, etc devices
@@ -251,7 +249,6 @@ unoconv
 
 #why this wasn't hear by default I've no idea
 paprefs
-pulseaudio-ctl
 #windows filesharing package
 samba
 
