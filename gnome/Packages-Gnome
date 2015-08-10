@@ -81,6 +81,8 @@ networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
+networkmanager-dispatcher-ntpd
+networkmanager-dispatcher-sshd
 #setup gui
 gnome-initial-setup
 

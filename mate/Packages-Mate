@@ -98,8 +98,11 @@ gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
+gst-plugins-ugly
 gstreamer0.10-base-plugins
 gstreamer0.10-good-plugins
+gstreamer0.10-bad-plugins
+gstreamer0.10-ugly-plugins
 libbluray
 libaacs
 libdvdcss
@@ -244,6 +247,7 @@ shairplay #for viewing and playing songs from apple devices over the network
 asunder #lightweight cd ripper
 libimobiledevice
 libplist
+gnome-sound-recorder
 #command line document converter
 unoconv
 
