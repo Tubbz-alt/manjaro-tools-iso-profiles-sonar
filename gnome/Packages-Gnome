@@ -119,6 +119,10 @@ bluez-hid2hci
 ## Artwork
 manjaro-artwork
 plymouth-theme-sonar-elegant
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+faenza-green-icon-theme
+numix-manjaro-themes
 
 ## Packages for Sound and Audio
 gst-libav
