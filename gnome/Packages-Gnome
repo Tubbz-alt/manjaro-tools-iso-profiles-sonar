@@ -219,3 +219,12 @@ bleachbit
 samba
 nautilus-share
 
+#some useful cli apps
+screen
+sox
+surfraw
+wget
+elinks
+smartmontools
+youtube-viewer
+
