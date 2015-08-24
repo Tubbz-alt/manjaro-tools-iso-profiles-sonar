@@ -72,3 +72,7 @@ pangox-compat
 ## VMWare Support
 open-vm-tools
 xf86-input-vmmouse
+#video acceleration for the open source video drivers
+mesa-vdpau
+libva-mesa-driver
+
