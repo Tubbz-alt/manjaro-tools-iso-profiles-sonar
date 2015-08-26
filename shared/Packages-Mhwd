@@ -76,3 +76,5 @@ xf86-input-vmmouse
 mesa-vdpau
 libva-mesa-driver
 
+#extra kernel packages
+KERNEL-acpi_call
