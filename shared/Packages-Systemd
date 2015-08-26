@@ -175,3 +175,6 @@ normalize
 
 gpsd
 
+#mac filesystem utils
+hfsprogs
+
