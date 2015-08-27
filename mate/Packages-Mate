@@ -256,4 +256,10 @@ unoconv
 paprefs
 #windows filesharing package
 samba
+#graphical service manager
+systemd-ui
 
+#youtube-utils
+youtube-viewer
+youtube-dl
+elinks

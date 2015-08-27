@@ -227,3 +227,6 @@ wget
 elinks
 youtube-viewer
 youtube-dl
+#graphical service manager
+systemd-ui
+
