@@ -249,6 +249,7 @@ asunder #lightweight cd ripper
 libimobiledevice
 libplist
 gnome-sound-recorder
+afpfs-ng
 #command line document converter
 unoconv
 

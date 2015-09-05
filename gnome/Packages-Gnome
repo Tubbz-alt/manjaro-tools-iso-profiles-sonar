@@ -229,4 +229,5 @@ youtube-viewer
 youtube-dl
 #graphical service manager
 systemd-ui
-
+#apple filing protocol support
+afpfs-ng
