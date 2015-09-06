@@ -1,5 +1,4 @@
 ## Artwork
-#nitrux-icon-theme
 manjaro-artwork
 xcursor-simpleandsoft
 xcursor-vanilla-dmz-aa
@@ -92,11 +91,6 @@ unrtf
 vorbis-tools
 opusfile
 opus-tools
-#command line normalize tool (only works on mp3, ogg and wav files)
-normalize
-
-#gps daemon
-gpsd
 
 #mac filesystem utils
 hfsprogs
@@ -107,8 +101,8 @@ thermald
 sane
 sane-gt68xx-firmware
 #standard media playing software
+brasero
 rhythmbox #for music management.
-libgpod #for management of apple iPod, iPhone, etc devices
 atomicparsley #for embedding thumbnails in the m4a format
 libimobiledevice
 libplist #for parsing apple .plist files
@@ -123,12 +117,21 @@ libdvdcss
 gnome-software
 #standard applications
 firefox
-#bleachbit file cleaner
+thunderbird
 bleachbit
+#standard instant mesenging software
 pidgin
+#extra plugins for pidgin
+#purple-plugin-pack
+pidgin-otr
+#standard voip software
+mumble
+#torrent software
 deluge
 xdg-user-dirs-gtk
 gksu
+#standard pdf reader
+evince
 ## Office
 libreoffice-fresh
 #command line document converter
@@ -171,6 +174,7 @@ firewalld
 networkmanager-openvpn
 networkmanager-openconnect
 networkmanager-pptp
+networkmanager-vpnc
 networkmanager-dispatcher-ntpd
 networkmanager-dispatcher-sshd
 #rescue apps
@@ -180,12 +184,20 @@ parted
 bash-completion
 testdisk
 #accessibility packages
+espeak
 orca
 speech-dispatcher
 espeakup
+eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
-#plymouth themes
+## Java
+icedtea-web
+##Plymouth themes
 plymouth-theme-sonar-elegant
+#extra archive formats
+p7zip
+cabextract
+cpio
 

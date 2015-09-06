@@ -71,69 +71,22 @@ gnome-photos
 gnome-tweak-tool
 gnome-weather
 nautilus-sendto
-orca
 rygel
 seahorse
 vinagre
 firewalld # firewall
-networkmanager-openconnect
-networkmanager-openvpn
-networkmanager-pptp
-networkmanager-vpnc
-networkmanager-dispatcher-ntpd
-networkmanager-dispatcher-sshd
 #setup gui
 gnome-initial-setup
 
 ## Applications
-firefox
-thunderbird
 #gimp
-gksu
-gparted
 gvfs-goa
-pidgin
-#purple-plugin-pack
-pidgin-otr
-mumble
-#accessibility 
-espeak
-eviacam
-java-atk-wrapper
-qt-at-spi
-open-dyslexic-fonts
 dasher
-
-## Network
-netctl
-openresolv
-## Artwork
-manjaro-artwork
-plymouth-theme-sonar-elegant
-xcursor-simpleandsoft
-xcursor-vanilla-dmz-aa
-faenza-green-icon-theme
-numix-manjaro-themes
-
-
-## Package management
-gnome-software
+#gnome policy kit
 polkit-gnome
-
-## Java
-icedtea-web
-
-## Office
-libreoffice-fresh
-
 #extra addons
 gedit-plugins
-transmission-gtk
 seahorse-nautilus #support for encrypting and unencrypting files and folders in nautilus using anything seahorse supports
-#extra archive formats
-p7zip
-cabextract
-cpio
 #microsoft exchange plugin for evolution
 evolution-ews
 
