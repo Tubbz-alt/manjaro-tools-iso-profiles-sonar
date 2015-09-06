@@ -264,3 +264,5 @@ systemd-ui
 youtube-viewer
 youtube-dl
 elinks
+#fuse exfat module
+fuse-exfat

@@ -231,3 +231,6 @@ youtube-dl
 systemd-ui
 #apple filing protocol support
 afpfs-ng
+#exfat fuse module
+fuse-exfat
+
