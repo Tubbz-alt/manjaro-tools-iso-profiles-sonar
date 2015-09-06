@@ -157,6 +157,9 @@ ttf-droid
 ttf-inconsolata
 ttf-liberation
 adobe-source-sans-pro-fonts
+#firefoxOS fonts
+otf-fira-mono
+otf-fira-sans
 #gvfs packages
 gvfs-afc
 gvfs-afp

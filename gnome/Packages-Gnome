@@ -79,6 +79,7 @@ firewalld # firewall
 gnome-initial-setup
 
 ## Applications
+firefox-theme-adwaita
 #gimp
 gvfs-goa
 dasher
