@@ -1,17 +1,25 @@
+## Artwork
+#nitrux-icon-theme
+manjaro-artwork
+xcursor-simpleandsoft
+xcursor-vanilla-dmz-aa
+faenza-green-icon-theme
+numix-manjaro-themes
+
+#finger print support
+fprintd
+thinkfinger
 #flashrom bios updater
 flashrom
 dmidecode
-
 #optional command line tool to check hardware
 lshw
 surfraw
-#bashc ompletion package
+#bash completion package
 bash-completion
-
 #android tools
 android-tools
 android-udev
-thinkfinger
 nss-mdns #optional dep of avahi, providing multicast support
 
 media-player-info #needed by calamares installer, but useful for cli and desktop systems.
@@ -38,4 +46,146 @@ elinks
 
 #espeakup
 espeakup
+#some useful cli apps
+screen
+wget
+youtube-viewer
+youtube-dl
+#bluetooth support
+bluez-firmware
+bluez-plugins
+bluez-hid2hci
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-ffmpeg
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+libbluray
+manjaro-alsa
+manjaro-pulse
+pavucontrol
+paprefs
+pulseaudio-ctl
+#extra pulse audio modules not included in main pulse package anymore
+pulseaudio-bluetooth
+pulseaudio-equalizer
+pulseaudio-gconf
+pulseaudio-zeroconf
+pulseaudio-lirc
+#Sound theme support
+sound-theme-freedesktop
+## Printing
+manjaro-printer
+python-pysmbc
+
+#ms word and rtf extractors
+antiword
+unrtf
+
+#opus and vorbis utils
+vorbis-tools
+opusfile
+opus-tools
+#command line normalize tool (only works on mp3, ogg and wav files)
+normalize
+
+#gps daemon
+gpsd
+
+#mac filesystem utils
+hfsprogs
+#thermal control daemon
+thermald
+
+#sane packages
+sane
+sane-gt68xx-firmware
+#standard media playing software
+rhythmbox #for music management.
+libgpod #for management of apple iPod, iPhone, etc devices
+atomicparsley #for embedding thumbnails in the m4a format
+libimobiledevice
+libplist #for parsing apple .plist files
+shairplay #for viewing and playing songs from apple devices over the network
+vlc #for basic file playback, conversion, dvd and bluray playback
+gnome-sound-recorder
+#blu ray decryption
+libaacs
+#dvd decryption
+libdvdcss
+## Package management
+gnome-software
+#standard applications
+firefox
+#bleachbit file cleaner
+bleachbit
+pidgin
+deluge
+xdg-user-dirs-gtk
+gksu
+## Office
+libreoffice-fresh
+#command line document converter
+unoconv
+
+#windows  filesharing packages
+samba
+#graphical service manager
+systemd-ui
+#apple filing protocol support
+afpfs-ng
+#exfat fuse module
+fuse-exfat
+#acpi package
+acpi
+## Fonts
+terminus-font
+ttf-bitstream-vera
+ttf-dejavu
+ttf-indic-otf
+cantarell-fonts
+ttf-droid
+ttf-inconsolata
+ttf-liberation
+adobe-source-sans-pro-fonts
+#gvfs packages
+gvfs-afc
+gvfs-afp
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+gvfs-gphoto2
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+#gui firewall
+firewalld
+#some extra networkmanager plugins
+networkmanager-openvpn
+networkmanager-openconnect
+networkmanager-pptp
+networkmanager-dispatcher-ntpd
+networkmanager-dispatcher-sshd
+#rescue apps
+fsarchiver
+rsync
+parted
+bash-completion
+testdisk
+#accessibility packages
+orca
+speech-dispatcher
+espeakup
+open-dyslexic-fonts
+qt-at-spi
+java-atk-wrapper
+#plymouth themes
+plymouth-theme-sonar-elegant
 

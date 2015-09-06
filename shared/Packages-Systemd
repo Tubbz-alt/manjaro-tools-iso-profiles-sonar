@@ -31,9 +31,6 @@ man-pages
 manjaro-hotfixes
 manjaro-system
 mdadm
-mesa
-mhwd
-mhwd-db
 nano
 pacman
 pciutils
@@ -92,12 +89,10 @@ rsync
 lsof
 
 ## needed by cli-installer
-# dialog
-# dmidecode
-# gptfdisk
-# parted
-# pv
-# tcpdump
+ dialog
+  gptfdisk
+ pv
+ tcpdump
 wget
 
 ## efi support (only x86_64)
@@ -115,14 +110,6 @@ testdisk
 nilfs-utils
 nfs-utils
 ntfs-3g
-
-## Fonts
-terminus-font
-ttf-bitstream-vera
-ttf-dejavu
-ttf-inconsolata
-ttf-indic-otf
-ttf-liberation
 
 ## Network
 b43-fwcutter
@@ -153,32 +140,20 @@ sdparm
 smartmontools
 tlp
 wireless_tools
-
-
-
-
-#blu ray decryption
-libaacs
-#dvd decryption
-libdvdcss
-
-#ms word and rtf extractors
-antiword
-unrtf
-
-#opus and vorbis utils
-vorbis-tools
-opusfile
-opus-tools
-#command line normalize tool (only works on mp3, ogg and wav files)
-normalize
-
-#gps daemon
-gpsd
-
-#mac filesystem utils
-hfsprogs
-#thermal control daemon
-thermald
+## AUR Access
+autoconf
+automake
+binutils
+bison
+fakeroot
+flex
+>i686 gcc
+>x86_64 gcc-multilib
+libtool
+m4
+make
+patch
+subversion
+yaourt
 
 

@@ -91,18 +91,12 @@ thunderbird
 #gimp
 gksu
 gparted
-gvfs-afc
-gvfs-afp
-gvfs-gphoto2
 gvfs-goa
-gvfs-mtp
-gvfs-smb
 pidgin
 #purple-plugin-pack
 pidgin-otr
 mumble
 #accessibility 
-orca
 espeak
 eviacam
 java-atk-wrapper
@@ -113,10 +107,6 @@ dasher
 ## Network
 netctl
 openresolv
-#blueman
-bluez-firmware
-bluez-plugins
-bluez-hid2hci
 ## Artwork
 manjaro-artwork
 plymouth-theme-sonar-elegant
@@ -125,29 +115,7 @@ xcursor-vanilla-dmz-aa
 faenza-green-icon-theme
 numix-manjaro-themes
 
-## Packages for Sound and Audio
-gst-libav
-gst-plugins-bad
-gst-plugins-base
-gst-plugins-good
-gst-plugins-ugly
-gstreamer0.10-bad-plugins
-gstreamer0.10-base-plugins
-gstreamer0.10-ffmpeg
-gstreamer0.10-good-plugins
-gstreamer0.10-ugly-plugins
-libbluray
-#flashplugin
-manjaro-alsa
-manjaro-pulse
-pavucontrol
 
-#extra pulse audio modules not included in main pulse package anymore
-pulseaudio-bluetooth
-pulseaudio-equalizer
-pulseaudio-gconf
-pulseaudio-zeroconf
-pulseaudio-lirc
 ## Package management
 gnome-software
 polkit-gnome
@@ -155,27 +123,9 @@ polkit-gnome
 ## Java
 icedtea-web
 
-## Printing
-manjaro-printer
-python-pysmbc
 ## Office
 libreoffice-fresh
 
-## AUR Access
-autoconf
-automake
-binutils
-bison
-fakeroot
-flex
->i686 gcc
->x86_64 gcc-multilib
-libtool
-m4
-make
-patch
-subversion
-yaourt
 #extra addons
 gedit-plugins
 transmission-gtk
@@ -187,50 +137,13 @@ cpio
 #microsoft exchange plugin for evolution
 evolution-ews
 
-#sane packages
-sane
-sane-gt68xx-firmware
 #simple scanning utility, supposed to be in gnome extra but for some reason isn't
 simple-scan
 #shotwell photo manager
 shotwell
-#nautilus actions, equivalent of shell extensions in windows
-nautilus-actions
-#standard media playing software
-rhythmbox #for music management.
-libgpod #for management of apple iPod, iPhone, etc devices
-atomicparsley #for embedding thumbnails in the m4a format
-libplist #for parsing apple .plist files
-shairplay #for viewing and playing songs from apple devices over the network
-vlc #for basic file playback, conversion, dvd and bluray playback
 #cd ripper
 sound-juicer
-gnome-sound-recorder
 
-#command line document converter
-unoconv
-#why this wasn't hear by default I've no idea
-paprefs
-pulseaudio-ctl
-#bleachbit file cleaner
-bleachbit
-
-#windows  filesharing packages
-samba
 nautilus-share
 
-#some useful cli apps
-screen
-sox
-surfraw
-wget
-elinks
-youtube-viewer
-youtube-dl
-#graphical service manager
-systemd-ui
-#apple filing protocol support
-afpfs-ng
-#exfat fuse module
-fuse-exfat
 

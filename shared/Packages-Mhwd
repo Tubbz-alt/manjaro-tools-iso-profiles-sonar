@@ -1,3 +1,7 @@
+#mesa and mhwd
+mesa
+mhwd
+mhwd-db
 ## Xorg Drivers
 xf86-video-apm
 xf86-video-ark
