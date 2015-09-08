@@ -102,6 +102,10 @@ sane
 sane-gt68xx-firmware
 #standard media playing software
 brasero
+#extra addons for brasero
+libwmf
+dvdauthor
+openjpeg2
 rhythmbox #for music management.
 atomicparsley #for embedding thumbnails in the m4a format
 libimobiledevice
