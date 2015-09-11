@@ -64,11 +64,8 @@ pa-applet
 onboard
 notify-osd
 
-
 #yelp tool for reading the help files
 yelp
-#mumble client
-mumble
 
 #gnome keyring and friends
 gnome-keyring

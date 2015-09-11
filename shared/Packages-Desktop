@@ -193,6 +193,8 @@ testdisk
 #accessibility packages
 espeak
 orca
+#library for orca plugins
+libpeas
 speech-dispatcher
 espeakup
 eviacam
