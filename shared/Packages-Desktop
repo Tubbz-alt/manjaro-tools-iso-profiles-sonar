@@ -212,4 +212,6 @@ plymouth-theme-sonar-elegant
 p7zip
 cabextract
 cpio
+#gui interface to grub
+grub-customizer
 
