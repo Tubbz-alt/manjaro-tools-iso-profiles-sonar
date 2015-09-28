@@ -111,15 +111,17 @@ dvdauthor
 openjpeg2
 rhythmbox #for music management.
 atomicparsley #for embedding thumbnails in the m4a format
-libimobiledevice
+libimobiledevice #for apple device support
 libplist #for parsing apple .plist files
 shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
-gnome-sound-recorder
+gnome-sound-recorder #for basic sound recording
 #blu ray decryption
 libaacs
 #dvd decryption
 libdvdcss
+#advanced sound editing
+audacity
 ## Package management
 gnome-software
 #standard applications
