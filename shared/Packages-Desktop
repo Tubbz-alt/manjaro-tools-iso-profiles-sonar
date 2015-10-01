@@ -211,6 +211,7 @@ icedtea-web
 ##Plymouth themes
 plymouth-theme-sonar-elegant
 #extra archive formats
+unace #license questionable, will remove if not open source
 p7zip
 cabextract
 cpio
