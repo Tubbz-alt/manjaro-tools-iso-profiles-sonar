@@ -170,11 +170,11 @@ adobe-source-sans-pro-fonts
 otf-fira-mono
 otf-fira-sans
 #gvfs packages
-gvfs-afc
-gvfs-afp
-gvfs-gphoto2
-gvfs-mtp
-gvfs-smb
+gvfs-afc #apple mobile devices backend
+gvfs-google #google drive backend 
+gvfs-gphoto2 #camera and media player backend
+gvfs-mtp #android and some media players backend
+gvfs-smb #smb/cifs (windows filesharing) backend
 gvfs-gphoto2
 ## Network
 netctl
