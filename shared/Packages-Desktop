@@ -107,6 +107,7 @@ sane-gt68xx-firmware
 brasero
 #extra addons for brasero
 libwmf
+dvdbackup
 dvdauthor
 openjpeg2
 rhythmbox #for music management.
@@ -117,6 +118,7 @@ shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
 gnome-sound-recorder #for basic sound recording
 #blu ray decryption
+libbluray
 libaacs
 #dvd decryption
 libdvdcss
@@ -217,4 +219,5 @@ cabextract
 cpio
 #gui interface to grub
 grub-customizer
-
+#standard sip software
+linphone
