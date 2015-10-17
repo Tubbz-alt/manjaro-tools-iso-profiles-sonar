@@ -81,7 +81,9 @@ gnome-initial-setup
 ## Applications
 firefox-theme-adwaita
 #gimp
-gvfs-goa
+#gvfs packages
+gvfs-google #google drive backend 
+gvfs-goa #gnome online accounts (goa) backend
 dasher
 #gnome policy kit
 polkit-gnome
@@ -93,8 +95,6 @@ evolution-ews
 
 #simple scanning utility, supposed to be in gnome extra but for some reason isn't
 simple-scan
-#shotwell photo manager
-shotwell
 #cd ripper
 sound-juicer
 

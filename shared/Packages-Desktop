@@ -124,6 +124,10 @@ libaacs
 libdvdcss
 #advanced sound editing
 audacity
+#Standard  photo manager
+shotwell
+#standard sip software
+linphone
 ## Package management
 gnome-software
 #standard applications
@@ -173,7 +177,6 @@ otf-fira-mono
 otf-fira-sans
 #gvfs packages
 gvfs-afc #apple mobile devices backend
-gvfs-google #google drive backend 
 gvfs-gphoto2 #camera and media player backend
 gvfs-mtp #android and some media players backend
 gvfs-smb #smb/cifs (windows filesharing) backend
@@ -219,5 +222,4 @@ cabextract
 cpio
 #gui interface to grub
 grub-customizer
-#standard sip software
-linphone
+
