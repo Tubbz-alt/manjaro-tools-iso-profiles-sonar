@@ -117,6 +117,8 @@ libplist #for parsing apple .plist files
 shairplay #for viewing and playing songs from apple devices over the network
 vlc #for basic file playback, conversion, dvd and bluray playback
 gnome-sound-recorder #for basic sound recording
+#id3 tag libraries
+id3v2
 #blu ray decryption
 libbluray
 libaacs
