@@ -141,6 +141,8 @@ pidgin
 #extra plugins for pidgin
 #purple-plugin-pack
 pidgin-otr
+pidgin-sipe #office communicator
+pidgin-encryption #transparently encrypt outgoing messages using nss, similar to off the record
 #standard voip software
 mumble
 #torrent software
