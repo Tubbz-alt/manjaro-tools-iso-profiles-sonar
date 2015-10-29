@@ -198,6 +198,9 @@ networkmanager-pptp
 networkmanager-vpnc
 networkmanager-dispatcher-ntpd
 networkmanager-dispatcher-sshd
+#network diagnostic tools
+traceroute
+nmap
 #rescue apps
 fsarchiver
 rsync
