@@ -183,6 +183,7 @@ otf-fira-sans
 gvfs-afc #apple mobile devices backend
 gvfs-gphoto2 #camera and media player backend
 gvfs-mtp #android and some media players backend
+gvfs-nfs #nfs, networking filesystem, backend
 gvfs-smb #smb/cifs (windows filesharing) backend
 gvfs-gphoto2
 ## Network
