@@ -231,4 +231,7 @@ cabextract
 cpio
 #gui interface to grub
 grub-customizer
+#standard backup software
+deja-dup #main backup software
+python2-boto #for amazon s3 backend
 
