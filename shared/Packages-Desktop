@@ -129,6 +129,10 @@ audacity
 #Standard  photo manager
 shotwell
 #standard sip software
+#standard scanning utility
+simple-scan
+#standard ocr software
+ocrdesktop
 linphone
 ## Package management
 gnome-software
@@ -219,6 +223,7 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
+dasher
 ## Java
 icedtea-web
 ##Plymouth themes
@@ -234,4 +239,5 @@ grub-customizer
 #standard backup software
 deja-dup #main backup software
 python2-boto #for amazon s3 backend
+
 

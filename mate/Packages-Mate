@@ -54,14 +54,12 @@ mate-applets
 network-manager-applet
 ## Applications
 isousb
-mplayer
 udiskie
 udisks
 udisks2
 pa-applet
 
 #accessibility
-onboard
 notify-osd
 
 #yelp tool for reading the help files
@@ -72,54 +70,21 @@ gnome-keyring
 seahorse
 #bluetooth utils
 blueman
-bluez
-bluez-utils
-bluez-hid2hci
-bluez-firmware
-dnsmasq
-#bleachbit file cleaner
-bleachbit
 #iPhone fuse mounter
 ifuse
 
 #gtk iPod gui
 gtkpod
 id3v2
-
-#android udev rules and tools
-android-tools
-android-udev
-
-#additional archive format support
-p7zip
-
-#user friendly backup gui
-deja-dup
-
 #I thought I put this on here, but apparently not
 evince
 
 mousetweaks
 
-sane
-sane-gt68xx-firmware
 
-#extra pulseaudio modules not included in main pulse package anymore
-pulseaudio-bluetooth
-pulseaudio-equalizer
-pulseaudio-gconf
-pulseaudio-zeroconf
-pulseaudio-lirc
 #standard media playing software.
 libgpod #for management of apple iPod, iPhone, etc devices
 asunder #lightweight cd ripper
+#mate tweak tool
+mate-tweak
 
-#graphical service manager
-systemd-ui
-
-#youtube-utils
-youtube-viewer
-youtube-dl
-elinks
-#fuse exfat module
-fuse-exfat
