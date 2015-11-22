@@ -40,7 +40,6 @@ nautilus
 sushi
 totem
 tracker
-vino
 xdg-user-dirs-gtk
 yelp
 
@@ -73,7 +72,6 @@ gnome-weather
 nautilus-sendto
 rygel
 seahorse
-vinagre
 firewalld # firewall
 #setup gui
 gnome-initial-setup
@@ -98,6 +96,13 @@ simple-scan
 #cd ripper
 sound-juicer
 
+#samba file sharing support
 nautilus-share
 
+
+#standard remote desktop software
+vinagre
+vino
+x2goserver
+x2goclient
 

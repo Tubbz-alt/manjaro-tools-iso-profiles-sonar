@@ -87,6 +87,14 @@ mousetweaks
 #standard media playing software.
 libgpod #for management of apple iPod, iPhone, etc devices
 asunder #lightweight cd ripper
+
 #mate tweak tool
 mate-tweak
+
+#standard remote desktop software
+remmina
+freerdp
+libvncserver
+x2goserver
+x2goclient
 
