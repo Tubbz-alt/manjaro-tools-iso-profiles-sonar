@@ -124,6 +124,7 @@ mobile-broadband-provider-info
 modemmanager
 nbd
 KERNEL-ndiswrapper
+nmap
 ndiswrapper-utils
 rp-pppoe
 usb_modeswitch

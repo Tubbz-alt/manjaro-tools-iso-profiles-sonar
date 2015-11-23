@@ -129,11 +129,11 @@ audacity
 #Standard  photo manager
 shotwell
 #standard sip software
+linphone
 #standard scanning utility
 simple-scan
 #standard ocr software
 ocrdesktop
-linphone
 ## Package management
 gnome-software
 #standard applications
