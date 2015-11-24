@@ -20,7 +20,6 @@ mate-polkit
 mate-session-manager
 mate-settings-daemon
 mate-themes
-mate-themes-extras
 #mate-extra group
 caja-gksu
 caja-image-converter

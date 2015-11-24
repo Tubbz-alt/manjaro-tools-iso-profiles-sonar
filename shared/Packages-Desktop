@@ -45,15 +45,18 @@ elinks
 
 #espeakup
 espeakup
+
 #some useful cli apps
 screen
 wget
 youtube-viewer
 youtube-dl
+
 #bluetooth support
 bluez-firmware
 bluez-plugins
 bluez-hid2hci
+
 ## Packages for Sound and Audio
 gst-libav
 gst-plugins-bad
@@ -77,8 +80,10 @@ pulseaudio-equalizer
 pulseaudio-gconf
 pulseaudio-zeroconf
 pulseaudio-lirc
+
 #Sound theme support
 sound-theme-freedesktop
+
 ## Printing
 manjaro-printer
 python-pysmbc
@@ -97,12 +102,14 @@ opus-tools
 
 #mac filesystem utils
 hfsprogs
+
 #thermal control daemon
 thermald
 
 #sane packages
 sane
 sane-gt68xx-firmware
+
 #standard media playing software
 brasero
 #extra addons for brasero
@@ -119,57 +126,77 @@ vlc #for basic file playback, conversion, dvd and bluray playback
 gnome-sound-recorder #for basic sound recording
 #id3 tag libraries
 id3v2
+
 #blu ray decryption
 libbluray
 libaacs
 #dvd decryption
 libdvdcss
+
 #advanced sound editing
 audacity
+
 #Standard  photo manager
 shotwell
+
 #standard sip software
 linphone
+
 #standard scanning utility
 simple-scan
+
 #standard ocr software
 ocrdesktop
+
 ## Package management
 gnome-software
+
 #standard applications
 firefox
 thunderbird
 bleachbit
-#standard instant mesenging software
+
+#standard instant messenging software
 pidgin
+
 #extra plugins for pidgin
 #purple-plugin-pack
 pidgin-otr
 pidgin-sipe #office communicator
 pidgin-encryption #transparently encrypt outgoing messages using nss, similar to off the record
+
 #standard voip software
 mumble
+
 #torrent software
 deluge
 xdg-user-dirs-gtk
 gksu
+
 #standard pdf reader
 evince
+
 ## Office
 libreoffice-fresh
+
 #command line document converter
 unoconv
 
 #windows  filesharing packages
 samba
+
 #graphical service manager
 systemd-ui
+
 #apple filing protocol support
 afpfs-ng
+
 #exfat fuse module
 fuse-exfat
+
 #acpi package
 acpi
+
 ## Fonts
 terminus-font
 ttf-bitstream-vera
@@ -183,6 +210,7 @@ adobe-source-sans-pro-fonts
 #firefoxOS fonts
 otf-fira-mono
 otf-fira-sans
+
 #gvfs packages
 gvfs-afc #apple mobile devices backend
 gvfs-gphoto2 #camera and media player backend
@@ -190,12 +218,15 @@ gvfs-mtp #android and some media players backend
 gvfs-nfs #nfs, networking filesystem, backend
 gvfs-smb #smb/cifs (windows filesharing) backend
 gvfs-gphoto2
+
 ## Network
 netctl
 networkmanager
 networkmanager-dispatcher-ntpd
+
 #gui firewall
 firewalld
+
 #some extra networkmanager plugins
 networkmanager-openvpn
 networkmanager-openconnect
@@ -206,12 +237,14 @@ networkmanager-dispatcher-sshd
 #network diagnostic tools
 traceroute
 nmap
+
 #rescue apps
 fsarchiver
 rsync
 parted
 bash-completion
 testdisk
+
 #accessibility packages
 espeak
 orca
@@ -224,20 +257,29 @@ open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
 dasher
+
 ## Java
 icedtea-web
+
 ##Plymouth themes
 plymouth-theme-sonar-elegant
+
 #extra archive formats
 unace #license questionable, will remove if not open source
 unarj #license questionable, will remove if not open source
 p7zip
 cabextract
 cpio
+
 #gui interface to grub
 grub-customizer
+
 #standard backup software
 deja-dup #main backup software
 python2-boto #for amazon s3 backend
 
+#standard software for desktop sounds
+libcanberra
+libcanberra-pulse
+libcanberra-gstreamer
 
