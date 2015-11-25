@@ -277,6 +277,8 @@ grub-customizer
 #standard backup software
 deja-dup #main backup software
 python2-boto #for amazon s3 backend
+#standard partition imaging and recovery software
+clonezilla
 
 #standard software for desktop sounds
 libcanberra
