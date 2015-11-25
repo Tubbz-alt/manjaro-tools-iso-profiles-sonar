@@ -135,8 +135,9 @@ libdvdcss
 
 #advanced sound editing
 ardour
-xjadeo #for file preview
+xjadeo #for video monitoring
 harvid #for the video timeline
+jack2 #preferred audio input/output, compatible with pulse audio
 
 #Standard  photo manager
 shotwell
