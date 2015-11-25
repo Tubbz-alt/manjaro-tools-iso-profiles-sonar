@@ -134,7 +134,9 @@ libaacs
 libdvdcss
 
 #advanced sound editing
-audacity
+ardour
+xjadeo #for file preview
+harvid #for the video timeline
 
 #Standard  photo manager
 shotwell
