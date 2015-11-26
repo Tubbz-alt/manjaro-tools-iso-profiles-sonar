@@ -134,9 +134,7 @@ libaacs
 libdvdcss
 
 #advanced sound editing
-ardour
-xjadeo #for video monitoring
-harvid #for the video timeline
+audacity
 jack2 #preferred audio input/output, compatible with pulse audio
 
 #Standard  photo manager
@@ -287,4 +285,6 @@ clonezilla
 libcanberra
 libcanberra-pulse
 libcanberra-gstreamer
-
+#standard video editor
+pitivi
+ frei0r-plugins
