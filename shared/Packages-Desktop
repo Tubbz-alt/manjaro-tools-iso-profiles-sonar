@@ -288,3 +288,8 @@ libcanberra-gstreamer
 #standard video editor
 pitivi
  frei0r-plugins
+#standard scheduling software
+gnome-schedule
+#standard terminal emulator
+gnome-terminal
+
