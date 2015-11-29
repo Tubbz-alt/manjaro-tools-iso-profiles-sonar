@@ -47,7 +47,6 @@ pluma
 #mate applets
 mate-applet-lockkeys
 mate-applet-streamer
-mate-applets
 #mate system tools
 system-tools-backends
 
