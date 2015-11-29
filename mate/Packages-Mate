@@ -57,7 +57,7 @@ isousb
 udiskie
 udisks
 udisks2
-pa-applet
+#pa-applet
 
 #accessibility
 notify-osd
@@ -81,7 +81,7 @@ evince
 
 mousetweaks
 
-#themes packages
+## Artwork
 adwaita-manjaro-themes
 menda-themes
 menda-circle-icon-theme
