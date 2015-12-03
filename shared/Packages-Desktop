@@ -56,7 +56,7 @@ youtube-dl
 bluez-firmware
 bluez-plugins
 bluez-hid2hci
-
+bluez-utils
 ## Packages for Sound and Audio
 gst-libav
 gst-plugins-bad
