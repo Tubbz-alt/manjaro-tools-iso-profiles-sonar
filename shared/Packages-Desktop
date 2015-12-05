@@ -252,7 +252,8 @@ orca
 #library for orca plugins
 libpeas
 speech-dispatcher
-espeakup
+#sonar specific branch of brltty
+brltty-sonar
 eviacam
 open-dyslexic-fonts
 qt-at-spi
