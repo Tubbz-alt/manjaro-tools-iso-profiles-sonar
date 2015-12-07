@@ -149,6 +149,10 @@ simple-scan
 #standard ocr software
 ocrdesktop
 
+#standard audio and video converters
+transmageddon  #for video formats
+soundconverter #for audio formats and video if all you want is the audio
+
 ## Package management
 gnome-software
 
