@@ -262,7 +262,7 @@ eviacam
 open-dyslexic-fonts
 qt-at-spi
 java-atk-wrapper
-dasher
+dasher #on screen keyboard
 
 ## Java
 icedtea-web
