@@ -147,3 +147,9 @@ zd1211-firmware
 
 ## ucode for new cpus
 intel-ucode
+#command line archive extraction tool
+atool
+
+#command line system menu, similar to desktop menus. THis is only applicable when running in a text terminal  or in rescue mode
+bmenu
+

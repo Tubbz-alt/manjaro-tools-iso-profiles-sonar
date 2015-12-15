@@ -276,6 +276,7 @@ unarj #license questionable, will remove if not open source
 p7zip
 cabextract
 cpio
+lha
 
 #gui interface to grub
 grub-customizer
