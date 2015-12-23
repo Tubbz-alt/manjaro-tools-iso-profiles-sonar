@@ -298,4 +298,8 @@ pitivi
 gnome-schedule
 #standard terminal emulator
 gnome-terminal
+#standard accounting software
+gnucash #main program
+perl-date-manip #for stock quotes
+perl-finance-quote #for stock quotes
 
