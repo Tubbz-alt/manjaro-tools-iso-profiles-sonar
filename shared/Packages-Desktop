@@ -90,6 +90,7 @@ python-pysmbc
 #driver packages, how the hell did I miss these
 foomatic-db
 foomatic-db-nonfree
+bluez-cups #for bluetooth printers
 
 #ms word and rtf extractors
 antiword
